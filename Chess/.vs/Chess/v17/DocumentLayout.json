@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Praktika\\Chess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09505487-578B-4227-B2D6-B60A6682A6D0}|Chess\\Chess.vcxproj|C:\\Users\\User\\Desktop\\Praktika\\Chess\\Chess\\Chess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09505487-578B-4227-B2D6-B60A6682A6D0}|Chess\\Chess.vcxproj|solutionrelative:Chess\\Chess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chess.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Praktika\\Chess\\Chess\\Chess.cpp",
+              "RelativeDocumentMoniker": "Chess\\Chess.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Praktika\\Chess\\Chess\\Chess.cpp",
+              "RelativeToolTip": "Chess\\Chess.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-08T09:13:26.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
